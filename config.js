@@ -45,9 +45,9 @@ module.exports = {
     netId3: {
       pbtc: {
         mixerAddress: {
-          '0.001': '0x8425EBC05AC74338838A0D99Db495906dF2eAe22',
-          '0.01': '0x2f2d3E612F3341eCDA859f2eB51b3a51b8eB62BB',
-          '0.1': '0xE9CaA191fc0D5E0C7fEE83b39F008Ba89b75df13',
+          '0.001': '0x59Bf15eC506892396095A50feb077021f39c27Dc',
+          '0.01': '0xf5307f6680d335b1cae884b43d5b46e1b3671b30',
+          '0.1': '0x758ab20c9a4ad3b609076e5f27b5665ed5b0c682',
         },
         tokenAddress: '0xEB770B1883Dcce11781649E8c4F1ac5F4B40C978',
         symbol: 'pBTC',
